@@ -22,7 +22,7 @@ Subject to change, check back often.
 Pull requests are welcomed.
 
 ### Current Maintainer
-Jeff Pabian <jpabian@gmail.com, 1st kyu
+Jeff Pabian, 1st kyu
 
 ### Contributors
 Ray Nelson, Nidan
